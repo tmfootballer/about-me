@@ -1,2 +1,3 @@
 # about-me
-thankyou for visiting my website
+Thankyou for visiting my HTML website.
+
